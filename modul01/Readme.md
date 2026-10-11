@@ -4,9 +4,9 @@
 ### Identitas Praktikan
 | Item | Keterangan |
 |------|------------|
-| **Nama** | Muhammad Uwais Nejat |
+| **Nama** | Muhammad Uwais Ahmadinejat |
 | **NIM** | 108072500131 |
-| **Kelas** | IF-04-01 |
+| **Kelas** | IF-05-04 |
 | **Asisten Praktikum** | Valen & Galang |
 | **Tanggal Praktikum** | 02-10-26 |
 
